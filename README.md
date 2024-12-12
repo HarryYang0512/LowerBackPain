@@ -2,7 +2,7 @@
 ## This is a Postgraduate's Project for King's College London
 
 Author: Yu-Ju, Yang <br />
-Institutuin: King's College London <br />
+Institution: King's College London <br />
 School: Faculty of Natural, Mathematical & Engineering Sciences <br />
 Department: Engineering <br />
 Programme: Robotics <br />
