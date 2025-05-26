@@ -1,6 +1,6 @@
 # Interpretable Machine Learning for Early Detection of Lower Back Pain
 
-## Project Overview
+## 📘 Project Overview
 
 This project was developed as part of a Master’s coursework at **King’s College London**. It aims to design an interpretable machine learning model for early detection and explanation of lower back pain risks using symptom-based data.
 
@@ -8,7 +8,7 @@ The study compares the performance of a **Graph Neural Network (GNN)** with a tr
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 - Build a deep learning model using Graph Neural Networks (GNN) to predict the risk of lower back pain.
 - Compare the performance of GNN with the KNN algorithm.
@@ -16,7 +16,7 @@ The study compares the performance of a **Graph Neural Network (GNN)** with a tr
 
 ---
 
-## Author
+## 👨‍🎓 Author
 
 - **Name**: Yu-Ju Yang (Harry Yang)
 - **University**: King’s College London
@@ -26,7 +26,7 @@ The study compares the performance of a **Graph Neural Network (GNN)** with a tr
 
 ---
 
-## Project Structure
+## 🗂 Project Structure
 
 ```text
 LowerBackPain/
@@ -38,7 +38,7 @@ LowerBackPain/
 
 ---
 
-## Dataset
+## 🔗 Dataset
 
 The dataset used in this project is publicly available on Kaggle:
 
@@ -46,7 +46,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the repository**:
    ```bash
@@ -64,3 +64,18 @@ The dataset used in this project is publicly available on Kaggle:
   torch-geometric>=2.0.0
   jupyter
 ```
+
+---
+
+📊 Results Summary
+
+| Model | Accuracy | Precision | Recall | F1 Score |   AUC    |
+|-------|----------|-----------|--------|----------|----------|
+| GNN   | 0.9586   | 0.9721    | 0.9301 | 0.9470   | 0.9959   |
+| KNN   | 0.92     | 0.90      | 0.91   | 0.90     | 0.91     |
+
+---
+
+📬 Contact
+GitHub: HarryYang0512
+Email: harryang99@gmail.com
