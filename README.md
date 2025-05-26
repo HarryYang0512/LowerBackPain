@@ -67,7 +67,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
-📊 Results Summary
+## 📊 Results Summary
 
 | Model | Accuracy | Precision | Recall | F1 Score |   AUC    |
 |-------|----------|-----------|--------|----------|----------|
@@ -76,7 +76,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
-📬 Contact
+## 📬 Contact
 GitHub: HarryYang0512
 
 Email: harryang0512@gmail.com
