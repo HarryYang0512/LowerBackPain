@@ -26,7 +26,7 @@ The study compares the performance of a **Graph Neural Network (GNN)** with a tr
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```text
 LowerBackPain/
