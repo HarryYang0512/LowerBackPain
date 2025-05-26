@@ -1,14 +1,66 @@
-# Interpretable Machine Learning for Early Detection and Explanation of Lower Back Pain Risk
-## This is a Postgraduate's Project for King's College London
+# Interpretable Machine Learning for Early Detection of Lower Back Pain
 
-Author: Yu-Ju, Yang <br />
-Institution: King's College London <br />
-School: Faculty of Natural, Mathematical & Engineering Sciences <br />
-Department: Engineering <br />
-Programme: Robotics <br />
+## Project Overview
 
-Using the lower back pain symptoms data from Kaggle (https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset/data).
+This project was developed as part of a Master’s coursework at **King’s College London**. It aims to design an interpretable machine learning model for early detection and explanation of lower back pain risks using symptom-based data.
 
-Develop the GNN deep learning model for prediction.
+The study compares the performance of a **Graph Neural Network (GNN)** with a traditional **K-Nearest Neighbors (KNN)** classifier, leveraging a publicly available dataset from Kaggle.
 
-Compare the result with K-Nearest Neighbour algorithm.
+---
+
+## Objectives
+
+- Build a deep learning model using Graph Neural Networks (GNN) to predict the risk of lower back pain.
+- Compare the performance of GNN with the KNN algorithm.
+- Provide model interpretability for enhanced understanding of the predictions.
+
+---
+
+## Author
+
+- **Name**: Yu-Ju Yang (Harry Yang)
+- **University**: King’s College London
+- **Faculty**: Faculty of Natural, Mathematical & Engineering Sciences
+- **Department**: Department of Engineering
+- **Program**: MSc in Robotics
+
+---
+
+## 🗂 Project Structure
+
+```text
+LowerBackPain/
+├── Advanced_GNN.ipynb # Implementation and experiments using Graph Neural Networks
+├── KNN.ipynb # Implementation and comparison with K-Nearest Neighbors
+├── Dataset_spine_clean.csv # Cleaned dataset used in the experiments
+└── README.md # Project documentation
+```
+
+---
+
+## 🔗 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 [Lower Back Pain Symptoms Dataset](https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset/data)
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/HarryYang0512/LowerBackPain.git
+   ```
+2. **Install dependencies**:  
+   *(Use a virtual environment if possible)*
+```text
+  numpy>=1.21.0
+  pandas>=1.3.0
+  scikit-learn>=0.24.0
+  matplotlib>=3.4.0
+  seaborn>=0.11.0
+  torch>=1.10.0
+  torch-geometric>=2.0.0
+  jupyter
+```
