@@ -78,4 +78,5 @@ The dataset used in this project is publicly available on Kaggle:
 
 📬 Contact
 GitHub: HarryYang0512
-Email: harryang99@gmail.com
+
+Email: harryang0512@gmail.com
