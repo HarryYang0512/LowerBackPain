@@ -38,7 +38,7 @@ LowerBackPain/
 
 ---
 
-## 🔗 Dataset
+## Dataset
 
 The dataset used in this project is publicly available on Kaggle:
 
@@ -46,7 +46,7 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**:
    ```bash
